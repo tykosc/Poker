@@ -15,6 +15,6 @@ bankroll that is updated each round. The bankroll starts at $0.0.  Each
 token they bet costs the player $1, and at the end of the round the player
 wins the payout of the hand * the number of tokens. The bankroll may be 
 negative if the player loses money. The game can also be tested by setting the 
-players hand and entering it as a String[] into the Game constructor.  
-Cards should be entered as the first letter of the suit, followed by the rank number 
-(1 is Ace, 11 - 13 is Jack - King). 
+players hand and entering it as a String[] into the Game constructor. Cards should be
+entered as the first letter of the suit, followed by the rank number (1 is Ace, 11 - 13 
+is Jack - King). 
